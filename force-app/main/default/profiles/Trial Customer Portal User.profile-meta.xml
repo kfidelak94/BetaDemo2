@@ -29,6 +29,9 @@
         <layout>Dev2_ObjA__c-Dev2 ObjA Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Dialer__c-Dialer Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestObj1__c-TestObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

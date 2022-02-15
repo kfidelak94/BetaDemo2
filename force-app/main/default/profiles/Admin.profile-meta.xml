@@ -25,6 +25,9 @@
         <layout>Dev2_ObjA__c-Dev2 ObjA Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Dialer__c-Dialer Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestObj1__c-TestObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -37,6 +40,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Dev2_ObjA__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Dialer__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
